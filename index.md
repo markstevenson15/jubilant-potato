@@ -5,3 +5,8 @@
 ``` python
 var1="Hello, world!"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Drink Coffee
+- [ ] Build an AI so powerful, we must flee to Mars to escape its wrath
